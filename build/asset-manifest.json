@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b100e6da.chunk.css",
+    "main.js": "/static/js/main.31616fc0.chunk.js",
+    "main.js.map": "/static/js/main.31616fc0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c17a4b44.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c17a4b44.js.map",
+    "static/js/2.eefee856.chunk.js": "/static/js/2.eefee856.chunk.js",
+    "static/js/2.eefee856.chunk.js.map": "/static/js/2.eefee856.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.117939b88c12d923ad789a1d9d881650.js": "/precache-manifest.117939b88c12d923ad789a1d9d881650.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/static/css/main.b100e6da.chunk.css.map",
+    "static/media/Tee.jpg": "/static/media/Tee.5387b8e6.jpg",
+    "static/media/water.jpeg": "/static/media/water.bece5f97.jpeg"
+  }
+}
